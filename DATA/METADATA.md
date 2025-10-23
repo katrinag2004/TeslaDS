@@ -93,5 +93,5 @@ The analysis is conducted strictly for academic and educational purposes.
 
 <img width="905" height="547" alt="image" src="https://github.com/katrinag2004/TeslaDS/blob/main/OUTPUT/teslastock.png?raw=true" />
 <img width="996" height="600" alt="image" src="https://github.com/katrinag2004/TeslaDS/blob/main/OUTPUT/teslastockelon.png?raw=true" />
-
+<img width="996" height="600" alt="image" src="https://github.com/katrinag2004/TeslaDS/blob/main/OUTPUT/TSLAEvent.png?raw=true" />
 
